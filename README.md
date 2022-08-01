@@ -28,7 +28,7 @@ Sorting visualizer website build with HTML, CSS and Javascript ., to visualize s
 ---
 
 ## Bubble Sort
-----
+
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
 
 Degree of Polynomial :- 2
@@ -38,7 +38,7 @@ Time Complexity is O(n^2) .
 Time Complexity is n^2 because here i used Two itarations .
 
 ## Selection Sort
----
+
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 
 - The subarray which is already sorted. 
@@ -53,14 +53,12 @@ The time complexity of Selection Sort is O(N2) as there are two nested loops:
 
 ## Merge Sort
 
----
 The Merge Sort algorithm is a sorting algorithm that is considered an example of the divide and conquer strategy. So, in this algorithm, the array is initially divided into two equal halves and then they are combined in a sorted manner. We can think of it as a recursive algorithm that continuously splits the array in half until it cannot be further divided. 
 
 Time Complexity: O(n log(n)),  Sorting arrays on different machines.
 
 ## Insertion Sort
 
-----
 Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
 
 Time Complexity: O(N^2) 
