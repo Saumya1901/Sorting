@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 
- [https://sorting-visualizer-saumya-1.netlify.app/][PlDb]
+ https://sorting-visualizer-saumya-1.netlify.app/
 
 Sorting visualizer website build with HTML, CSS and Javascript ., to visualize sorting algorithms to make the mechanishm of sorting easier to understand.
 
