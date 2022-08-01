@@ -1,11 +1,10 @@
 # Sorting Visualizer
-----
+
 
  [https://sorting-visualizer-saumya-1.netlify.app/][PlDb]
 
 Sorting visualizer website build with HTML, CSS and Javascript ., to visualize sorting algorithms to make the mechanishm of sorting easier to understand.
 
-----
 ## Features
 
 - Select the Array Size
@@ -13,19 +12,17 @@ Sorting visualizer website build with HTML, CSS and Javascript ., to visualize s
 - Speed up or down at your own convenience
 
 
------
 ## Algorithms
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
 - Merge Sort
-------
+
 
 ## Technology 
 - HTML
 - CSS
 - Javascript
----
 
 ## Bubble Sort
 
@@ -63,5 +60,5 @@ Insertion sort is a simple sorting algorithm that works similar to the way you s
 
 Time Complexity: O(N^2) 
 
-----
+
 
