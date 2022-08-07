@@ -14,7 +14,7 @@ color: #f6f7fb;
 
 .navbar {
     position: relative;
-    background-color: #811059;
+       background-color: rgba(255, 255, 255, 0.28);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -41,23 +41,38 @@ color: #f6f7fb;
 	font-weight: bold;
 	
 	margin: 0;
-	color: black;
+	color: white;
 	padding: 1vw 1vw 2vw 1vw;
 	margin-bottom: 2vw;
 }
   h1 { 
     text-align: center;
-    color: BLACK; 
+  	color: white;
     
       font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #FFE6C7 ;}
+   font-family: 'Poppins', sans-serif;
+    background: rgb(16, 16, 23);
+ 
+  }
     .btn {
-        border: 2px solid silver;
-        background-color: #A9A9A9;
-        
-        color: #f6f7fb;
+       border: 1px solid pink;
+       background-color: transparent;
+      margin-left: auto;
+    margin-right: 5px;
+      color:white;
+/*         border: 2px solid silver;
+        background-color: #A9A9A9; */
+     
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid pink ;
+    outline: none;
+    color:white;
+         margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 10px;
         padding: 14px 14px;
         
         font-size: 16px;
@@ -68,6 +83,10 @@ color: #f6f7fb;
       }
      
   
+.btn:hover{
+    background-color: pink;
+    transition: 0.2s ease-out;
+}
     .bar-container{
         display: flex;
         align-items: flex-start;
